@@ -39,3 +39,21 @@ Leverage partnerships with top-tier mining facilities that use renewable energy 
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/your-repo/morpheus-ai.git
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the platform**:
+   ```bash
+   python main.py
+
+---
+## 📜 License
+Morpheus AI is licensed under the Apache 2.0 License. See the LICENSE file for details.
+
+---
+## 📬 Contact
+
+-**Website**: [Official Website](https://www.morpheusai.cc)
+-**X**: [Official X Account](https://x.com/Morpheus__AI)
